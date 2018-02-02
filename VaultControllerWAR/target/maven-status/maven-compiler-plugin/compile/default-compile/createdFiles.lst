@@ -1,0 +1,7 @@
+me/williandrade/vaultcontroller/service/VaultViewService.class
+me/williandrade/vaultcontroller/config/RequestParamFilter.class
+me/williandrade/vaultcontroller/service/VaultTransactionService.class
+me/williandrade/vaultcontroller/config/VaultControllerConfig.class
+me/williandrade/vaultcontroller/service/UserService.class
+me/williandrade/vaultcontroller/service/VaultService.class
+me/williandrade/vaultcontroller/config/ResponseFilter.class
